@@ -52,4 +52,4 @@ df.isnull().sum()
 # OUTPUT
 ## For Data_set
 ### DATA
-![mODEL](DATA1.png)
+
